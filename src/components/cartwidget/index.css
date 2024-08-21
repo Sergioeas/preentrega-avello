@@ -1,0 +1,17 @@
+.cart-widget {
+    position: relative;
+}
+
+.pill {
+    position: absolute;
+    padding: 2px 4px;
+    top: -4px;
+    right: -4px;
+    background-color: red;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.cart-widget__cart {
+    font-size: 50px;
+}

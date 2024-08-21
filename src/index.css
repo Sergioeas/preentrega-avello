@@ -1,0 +1,11 @@
+/* GLOBAL STYLES */
+
+@import './styles/reset.css';
+@import './styles/shared.css';
+
+/* COMPONENTS */
+
+@import './components/navbar/index.css';
+@import './components/cartwidget/index.css';
+
+
